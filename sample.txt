@@ -1,2 +1,3 @@
 Hello 
-Sample text to learn git
+Sample text changed 
+New line added
